@@ -1,0 +1,5 @@
+.DS_Store
+assignment/part_one
+assignment/part_two
+*.o
+project1_test
